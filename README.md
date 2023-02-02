@@ -1,7 +1,7 @@
 ### Hey all 👋 I'm Burak Demir and welcome to my page!
 ---
 
-I am a Cloud & Devops Engineer livin in Toronto, ON <img src="https://illustoon.com/?dl=897">
+I am a Cloud & Devops Engineer livin in Toronto, ON <img src="./images/canada_flag_s.png">
 AZ-900 certified
 
 
