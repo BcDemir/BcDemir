@@ -1,5 +1,11 @@
-### Hi there 👋 I'm Burak Demir
+### Hey all 👋 I'm Burak Demir and welcome to my page!
 ---
+
+I am a Cloud & Devops Engineer livin in Toronto, ON <img src="https://flyclipart.com/canada-flag-circle-flag-national-icon-canada-flag-png-596579">
+AZ-900 certified
+
+
+Some of my hobby projects are:
 
 
 <!--
