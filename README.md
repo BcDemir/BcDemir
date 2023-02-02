@@ -1,4 +1,4 @@
-### Hey all 👋 I'm Burak Demir and welcome to my page!
+### Hey there 👋 Welcome to my page!
 ---
 
 I am a Cloud & Devops Engineer living in Toronto, ON <img src="./images/canada_flag_s.png" style="width: 16px;"><br>
