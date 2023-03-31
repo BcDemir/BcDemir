@@ -1,7 +1,7 @@
 ### Hey there 👋 Welcome to my page!
 ---
 
-I am a Cloud & Devops Engineer living in Toronto, ON <img src="./images/canada_flag_s.png" style="width: 14px;">
+I am a Computer Programmer living in Toronto, ON <img src="./images/canada_flag_s.png" style="width: 14px;">
 AZ-900 certified
 
 - 🌱 I’m currently learning Kubernetes<br>
