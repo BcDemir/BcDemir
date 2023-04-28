@@ -10,6 +10,16 @@ AZ-900 certified
 
 <a href='https://www.linkedin.com/in/demirburakc/' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=01A6FF&color=01A6FF'/></a>
 
+```javascript
+const Burki = {
+  pronouns: "he" | "him",
+  code: [Java, C#, Python, Javascript, Nodejs, HTML, CSS, SQL],
+  devops tools: [Terraform, Docker, Jenkins, Azure Devops, Github Actions],
+  game development: ["Unity 2D/3D", "Mobile Game Development", "Collision Mechanics", "UI Desing"],
+  databases: [My SQL, PL/SQL, Mongo DB]
+}
+```
+<!-- 
 #### Tools
 
 <p align="center">
@@ -29,7 +39,7 @@ AZ-900 certified
   <a href='' target="_blank"><img alt='python' src='https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=FFFB00&labelColor=0D00FF&color=FFFFFF'/></a> 
   <a href='' target="_blank"><img alt='c sharp' src='https://img.shields.io/badge/c_sharp-100000?style=for-the-badge&logo=c sharp&logoColor=FFFFFF&labelColor=171AFF&color=171AFF'/></a>
   <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='mysql' src='https://img.shields.io/badge/Sql-100000?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=black'/></a>
-</p>
+</p> -->
 
 <!--
 **BcDemir/BcDemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
