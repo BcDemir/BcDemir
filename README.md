@@ -1,5 +1,8 @@
 ### Hey there 👋 Welcome to my page!
 ---
+<div align="center">
+  <img src="[https://user-images.githubusercontent.com/38964964/167203498-225a03a5-49f4-4262-abe4-78da42559625.png](https://media.licdn.com/dms/image/D5616AQFDg_3zcfGOzQ/profile-displaybackgroundimage-shrink_350_1400/0/1682348660950?e=1687996800&v=beta&t=JIH5zNs3IWUiAjIWqNaEYZNAJ32uRlQbTgGd-zNm5O0)" width="100%" alt="Banner">
+</div>
 
 I am a Computer Programmer living in Toronto, ON <img src="./images/canada_flag_s.png" style="width: 14px;">
 AZ-900 certified
