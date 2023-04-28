@@ -18,7 +18,7 @@ const Burki = {
 }
 ```
 
-- 🌱 I’m currently learning Kubernetes<br>
+- 🌱 I’m currently developing a new game<br>
 
 - 📫 How to reach me:
 
