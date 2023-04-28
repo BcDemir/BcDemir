@@ -8,12 +8,6 @@
 
 ### I am a Computer Programmer living in Toronto, ON 
 
-- 🌱 I’m currently learning Kubernetes<br>
-
-- 📫 How to reach me:
-
-<a href='https://www.linkedin.com/in/demirburakc/' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=01A6FF&color=01A6FF'/></a>
-
 ```javascript
 const Burki = {
   pronouns: "he" | "him",
@@ -23,6 +17,13 @@ const Burki = {
   databases: [My SQL, PL/SQL, Mongo DB]
 }
 ```
+
+- 🌱 I’m currently learning Kubernetes<br>
+
+- 📫 How to reach me:
+
+<a href='https://www.linkedin.com/in/demirburakc/' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=01A6FF&color=01A6FF'/></a>
+
 <!-- 
 #### Tools
 
