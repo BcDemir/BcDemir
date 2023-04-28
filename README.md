@@ -1,7 +1,7 @@
 <!-- ### Hey there 👋 Welcome to my page!
  -->
 <div align="center">
-  <img src="images/Burak\ Demir(1).png" width="100%" alt="Banner">
+  <img src="/images/Burak\ Demir(1).png" width="100%" alt="Banner">
 </div>
 
 ---
