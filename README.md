@@ -11,7 +11,7 @@
 - 🔭 I’m currently developing a new game with Unity<br>
 - 🌱 I’m currently learning Django and Vue
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/demirburakc/) 
 
 # 💻 Tech Stack:
