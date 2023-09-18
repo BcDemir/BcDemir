@@ -8,8 +8,8 @@
 
 ### I am a Computer Programmer living in Toronto, ON 
 
-- 🔭 I’m currently developing a new game with Unity<br>
-- 🌱 I’m currently learning Django and Vue
+- 🔭 I’m currently working as a Full-Stack Developer<br>
+- 🌱 I’m currently working on an IoT project<br>
 - ⚡ Game Dev of <a href="https://bcdemir.itch.io/robot">R.O.B.O.T.</a>
 
 # 🌐 Socials:
