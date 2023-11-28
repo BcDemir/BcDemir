@@ -6,7 +6,7 @@
 
 ---
 
-### I am a Computer Programmer living in Toronto, ON 
+### I am a Computer Programmer living in Toronto, ON. I can work as a Software Developer, Full-stack Developer and Clouds & Devops Engineer.
 
 - 🔭 I’m currently working as a Full-Stack Developer<br>
 - 🌱 I’m currently working on an IoT project<br>
