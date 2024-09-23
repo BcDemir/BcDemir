@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ I am an ex-materials engineer who is currently working in Software Development <br>⚡ I'm highly skilled in Data Analytics, with a strong ability to interpret complex data and deliver actionable insights<br>🔭 I’m currently working at DataAnnotation as a Software Developer<br>👯 I’m looking to collaborate on Data Analysis or Python projects<br>🌱 I’m currently learning Data Science
+⚡ I am an ex-materials engineer who is currently working in Software Development <br>⚡ I'm highly skilled in Data Analytics, with a strong ability to interpret complex data and deliver actionable insights<br>🔭 I’m currently working at DataAnnotation as a Software Developer<br>👯 I’m looking to collaborate on Data Analysis or Python projects<br>🌱 I’m currently learning Scikit and Scipy
 
 
 ## 🌐 Socials:
