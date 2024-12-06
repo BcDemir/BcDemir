@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ I am currently working as a Software Developer (Python) at DataAnnotation <br>⚡ I'm highly skilled in Python and Data Analytics, with a strong ability to interpret complex data and deliver actionable insights<br>👯 I’m looking to collaborate on Data Analysis or Python/Django projects<br>🌱 I’m currently learning Scikit and Scipy
+⚡ I am currently working as a AI trainer (Coding) at DataAnnotation and Outlier AI <br>⚡ I'm highly skilled in Python and Data Analytics, with a strong ability to interpret complex data and deliver actionable insights<br>👯 I’m looking to collaborate on AI/ML, Data Analysis or Python/Django projects<br>🌱 I’m currently learning ML Engineering
 
 
 ## 🌐 Socials:
