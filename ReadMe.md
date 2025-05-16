@@ -3,8 +3,8 @@
      ════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/‹user›/‹repo›/main/assets/banner.svg"
-       width="100%" alt="Banner — ‹Burak›">
+  <img src="https://raw.githubusercontent.com/BcDemir/BcDemir/main/images/Burak Demir(1).png"
+       width="100%" alt="Banner — BcDemir">
 </p>
 
 <h1 align="center">Hi, I'm Burak 👋</h1>
@@ -12,10 +12,7 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/website-‹your_url›-blue?style=flat&logo=google-chrome)](https://‹your_url›)
-[![LinkedIn](https://img.shields.io/badge/linkedin-‹username›-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/‹username›)
-[![Twitter](https://img.shields.io/badge/twitter-@‹handle›-1DA1F2?logo=twitter)](https://twitter.com/‹handle›)
-[![Gmail](https://img.shields.io/badge/email-‹you›@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:‹you›@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-‹username›-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/demirburakc/›)
 
 </div>
 
