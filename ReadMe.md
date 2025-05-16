@@ -3,7 +3,7 @@
      ════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BcDemir/BcDemir/main/images/Burak Demir(1).png"
+  <img src="https://raw.githubusercontent.com/BcDemir/BcDemir/main/images/banner.jpg"
        width="100%" alt="Banner — BcDemir">
 </p>
 
