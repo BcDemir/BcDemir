@@ -1,24 +1,71 @@
-# 💫 About Me:
-⚡ I am currently working as a Prompt Engineer and AI trainer in RLHF (Coding) at DataAnnotation and Outlier AI <br>⚡ I'm highly skilled in Python and Data Analytics, with a strong ability to interpret complex data and deliver actionable insights<br>👯 I’m looking to collaborate on AI/ML, Data Analysis or Python/Django projects<br>🌱 I’m currently learning ML Engineering
+<!-- ════════════════════════════════════════════════════════════════
+     README.md  ──  GitHub Profile • replace ‹…› with your own info
+     ════════════════════════════════════════════════════════════════ -->
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/‹user›/‹repo›/main/assets/banner.svg"
+       width="100%" alt="Banner — ‹Burak›">
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/burakcdemir) 
+<h1 align="center">Hi, I'm Burak 👋</h1>
+<p align="center"><em>I am a Software Developer specialized in Python. I am comfortable working as an ML Engineer, Data Engineer, and Data Analyst.</em></p>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bcdemir&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bcdemir&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bcdemir&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bcdemir&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![Website](https://img.shields.io/badge/website-‹your_url›-blue?style=flat&logo=google-chrome)](https://‹your_url›)
+[![LinkedIn](https://img.shields.io/badge/linkedin-‹username›-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/‹username›)
+[![Twitter](https://img.shields.io/badge/twitter-@‹handle›-1DA1F2?logo=twitter)](https://twitter.com/‹handle›)
+[![Gmail](https://img.shields.io/badge/email-‹you›@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:‹you›@gmail.com)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bcdemir&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bcdemir&icon=5&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠 Tech Stack
+
+| Domain | Tools & Frameworks |
+| ------ | ------------------ |
+| Languages | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white) |
+| Python Ecosystem | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white) ![seaborn](https://img.shields.io/badge/Seaborn-3192AA?logo=python&logoColor=white) |
+| Databases | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?logo=postgresql&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?logo=influxdb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) |
+| Cloud / DevOps | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white) |
+
+---
+
+## 🚀 Projects
+
+<details>
+<summary><b>Click to expand the project portfolio</b></summary>
+
+| # | Project | Stack | Repo |
+|:-:| ------- | ----- | ---- |
+| 1 | **Data Engineering - Steam API** | Python · ETL · Docker | [`link`](https://github.com/BcDemir/steam-data-engineering-project) |
+| 2 | **TBD** | TBD | [`link`](https://github.com/‹BcDemir›/) |
+| 3 | **TBD** | TBD | [`link`](https://github.com/‹BcDemir›/) |
+| 4 | **TBD** | TBD | [`link`](https://github.com/‹BcDemir›/) |
+| 5 | **TBD** | TBD | [`link`](https://github.com/‹BcDemir›/) |
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=‹user›&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=‹user›&layout=compact&theme=radical" height="170"/>
+</p>
+
+---
+
+## ✨ Fun Facts
+
+• 🎸  I played Skyrim more than 20 times but never finished it.  
+• 🌍  I’ve traveled more than 10 countries.  
+• ☕  The meetings are more bearable when my cats jump around on my webcam.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=‹user›&style=flat-square" alt="Profile views"/>
+</p>
