@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-‹username›-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/demirburakc/›)
+[![LinkedIn](https://img.shields.io/badge/linkedin-BcDemir-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/demirburakc/›)
 
 </div>
 
@@ -49,8 +49,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=‹user›&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=‹user›&layout=compact&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BcDemir&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BcDemir&layout=compact&theme=radical" height="170"/>
 </p>
 
 ---
@@ -64,5 +64,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=‹user›&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=BcDemir&style=flat-square" alt="Profile views"/>
 </p>
