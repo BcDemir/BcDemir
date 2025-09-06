@@ -37,7 +37,7 @@
 | # | Project | Stack | Repo |
 |:-:| ------- | ----- | ---- |
 | 1 | **Data Engineering - Steam API** | Python · ETL · Docker | [`link`](https://github.com/BcDemir/steam-data-engineering-project) |
-| 2 | **TBD** | TBD | [`link`](https://github.com/‹BcDemir›/) |
+| 2 | **Scambot - AI agent** | Python - Ollama - AI | [`link`](https://github.com/BcDemir/Scambot_AI_agent) |
 | 3 | **TBD** | TBD | [`link`](https://github.com/‹BcDemir›/) |
 | 4 | **TBD** | TBD | [`link`](https://github.com/‹BcDemir›/) |
 | 5 | **TBD** | TBD | [`link`](https://github.com/‹BcDemir›/) |
