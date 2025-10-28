@@ -38,7 +38,7 @@
 |:-:| ------- | ----- | ---- |
 | 1 | **Data Engineering - Steam API** | Python · ETL · Docker | [`link`](https://github.com/BcDemir/steam-data-engineering-project) |
 | 2 | **Scambot - AI agent** | Python - Ollama - AI | [`link`](https://github.com/BcDemir/Scambot_AI_agent) |
-| 3 | **Defect Analysis** | Power BI | [`link`]([https://github.com/‹BcDemir›/](https://github.com/BcDemir/DefectAnalysis)) |
+| 3 | **Defect Analysis** | Power BI | [`link`](https://github.com/BcDemir/DefectAnalysis) |
 | 4 | **TBD** | TBD | [`link`](https://github.com/‹BcDemir›/) |
 | 5 | **TBD** | TBD | [`link`](https://github.com/‹BcDemir›/) |
 
